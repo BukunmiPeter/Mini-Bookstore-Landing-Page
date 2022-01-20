@@ -1,0 +1,77 @@
+body{
+    background-image: linear-gradient(to right, red,yellow) ;
+    overflow: hidde
+}
+
+
+
+header{
+    display: flex;
+}
+hr{
+    border-top: 0.5px solid white;
+}
+
+.landing{
+    margin-right: 500px;
+    display: flex;
+}
+
+.image2{
+    position:relative;
+    left: 5px;
+    top: 23px;
+}
+
+.landingt{
+    position:relative ;
+    left: 20px;
+    top : 0px;
+
+}
+
+
+.whitetxt{
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    
+    }
+    li{
+        float: right;
+        text-align: center;
+        color: white;
+    }
+
+
+    a{
+        text-decoration: none;
+        padding: 13px;
+        
+        color: black;
+        display: block;
+        }
+    a:hover{
+background-color: white;
+border-radius: 20px;
+    }
+
+
+section{
+    display: flex;
+}
+
+.image{
+    margin-left: 150px;
+}
+
+.btn{
+    border: 1px solid black;
+    background-color: white;
+    padding: 14px 28px;
+    border-radius: 30px;
+
+}
